@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/priya151-max/LeetCode-Problems/tree/master/0338-counting-bits) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
