@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
