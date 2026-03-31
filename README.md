@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/priya151-max/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/priya151-max/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya151-max/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/priya151-max/LeetCode-Problems/tree/master/0338-counting-bits) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priya151-max/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/priya151-max/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/priya151-max/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/priya151-max/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/priya151-max/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/priya151-max/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/priya151-max/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/priya151-max/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## Sliding Window
