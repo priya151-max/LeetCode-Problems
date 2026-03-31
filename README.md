@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/priya151-max/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya151-max/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/priya151-max/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/priya151-max/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/priya151-max/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/priya151-max/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/priya151-max/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/priya151-max/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0392-is-subsequence](https://github.com/priya151-max/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
