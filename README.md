@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/priya151-max/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/priya151-max/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/priya151-max/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/priya151-max/LeetCode-Problems/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0441-arranging-coins](https://github.com/priya151-max/LeetCode-Problems/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
