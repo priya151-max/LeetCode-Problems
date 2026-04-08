@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priya151-max/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/priya151-max/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/priya151-max/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya151-max/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/priya151-max/LeetCode-Problems/tree/master/0338-counting-bits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/priya151-max/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priya151-max/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya151-max/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/priya151-max/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya151-max/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priya151-max/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/priya151-max/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya151-max/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/priya151-max/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/priya151-max/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priya151-max/LeetCode-Problems/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/priya151-max/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/priya151-max/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
