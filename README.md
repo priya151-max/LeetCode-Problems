@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/priya151-max/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
