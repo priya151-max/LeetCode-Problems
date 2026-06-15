@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/priya151-max/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/priya151-max/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/priya151-max/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priya151-max/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/priya151-max/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/priya151-max/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/priya151-max/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priya151-max/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
