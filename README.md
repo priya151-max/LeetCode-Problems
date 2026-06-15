@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/priya151-max/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/priya151-max/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/priya151-max/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Array
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/priya151-max/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya151-max/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priya151-max/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
