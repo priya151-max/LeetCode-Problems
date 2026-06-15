@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priya151-max/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/priya151-max/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2248-intersection-of-multiple-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/priya151-max/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/priya151-max/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priya151-max/LeetCode-Problems/tree/master/0018-4sum) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/priya151-max/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/priya151-max/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/priya151-max/LeetCode-Problems/tree/master/1934-confirmation-rate) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
