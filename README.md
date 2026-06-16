@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya151-max/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/priya151-max/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priya151-max/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/priya151-max/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/priya151-max/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/priya151-max/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priya151-max/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2248-intersection-of-multiple-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/priya151-max/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priya151-max/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priya151-max/LeetCode-Problems/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/priya151-max/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/priya151-max/LeetCode-Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priya151-max/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
