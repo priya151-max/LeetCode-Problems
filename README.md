@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/priya151-max/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priya151-max/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1470-shuffle-the-array](https://github.com/priya151-max/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/priya151-max/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2248-intersection-of-multiple-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
