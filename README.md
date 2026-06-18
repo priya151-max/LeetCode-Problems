@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/priya151-max/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/priya151-max/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/priya151-max/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priya151-max/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2248-intersection-of-multiple-arrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/priya151-max/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/priya151-max/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/priya151-max/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/priya151-max/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/priya151-max/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/priya151-max/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/priya151-max/LeetCode-Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priya151-max/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priya151-max/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/priya151-max/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/priya151-max/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/priya151-max/LeetCode-Problems/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/priya151-max/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
