@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/priya151-max/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/priya151-max/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priya151-max/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/priya151-max/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/priya151-max/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/priya151-max/LeetCode-Problems/tree/master/0441-arranging-coins) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya151-max/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/priya151-max/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/priya151-max/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priya151-max/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priya151-max/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priya151-max/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/priya151-max/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priya151-max/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/priya151-max/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priya151-max/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/priya151-max/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/priya151-max/LeetCode-Problems/tree/master/0392-is-subsequence) |
